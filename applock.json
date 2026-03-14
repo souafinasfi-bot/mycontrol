@@ -7,10 +7,10 @@
      "ClickCount": 1,
      "ShowLoadingAds": true,
 
-    "AdmobInterstitial": "ca-app-pub-7292573788780961/83607682",
-    "AdmobBanner":"ca-app-pub-7292573788780961/50796595",
-    "AdmobNative":"ca-app-pub-7292573788780961/99173925",
-    "AdmobOpen":"ca-app-pub-7292573788780961/44215232",
+    "AdmobInterstitial": "",
+    "AdmobBanner":"",
+    "AdmobNative":"",
+    "AdmobOpen":"",
     "AdmobReward":"",
 
     "unity_inter": "Interstitial_Android",
