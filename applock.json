@@ -3,15 +3,15 @@
 
    
 
-     "ShowAds": false,
+     "ShowAds": true,
      "ClickCount": 1,
      "ShowLoadingAds": true,
 
-    "AdmobInterstitial": "",
-    "AdmobBanner":"",
-    "AdmobNative":"",
-    "AdmobOpen":"",
-    "AdmobReward":"",
+    "AdmobInterstitial": "ca-app-pub-8372293869174506/2176903518",
+    "AdmobBanner":"ca-app-pub-8372293869174506/2115148163",
+    "AdmobNative":"ca-app-pub-8372293869174506/4611495169",
+    "AdmobOpen":"ca-app-pub-8372293869174506/2143068320",
+    "AdmobReward":"ca-app-pub-8372293869174506/4110756116",
 
     "unity_inter": "Interstitial_Android",
     "unity_banner": "Banner_Android",
